@@ -1,0 +1,14 @@
+<JSD007_Fubuki_1944_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/ship/JSD007_Fubuki_1944_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/ship/JSD007_Fubuki_1944_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/ship/JSD007_Fubuki_1944_n.dds	</Texture>
+	</property>
+</JSD007_Fubuki_1944_wire.mfm>

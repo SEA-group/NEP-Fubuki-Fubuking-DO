@@ -1,0 +1,13 @@
+<JGA066_13mm76_Type93_single_dead.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	1.000000	</extent>
+	<parent>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGA066_13mm76_Type93_single_dead_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.014806 -0.003275 -0.040705	</min>
+		<max>	0.017991 0.112149 0.068618	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGA066_13mm76_Type93_single_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGA066_13mm76_Type93_single_dead.model>

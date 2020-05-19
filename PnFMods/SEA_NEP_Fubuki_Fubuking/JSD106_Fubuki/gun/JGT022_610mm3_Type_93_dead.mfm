@@ -1,0 +1,46 @@
+<JGT022_610mm3_Type_93_dead.mfm>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	1.80000	</Float>
+	</property>	
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	150	</Int>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGT022_610mm3_Type_93_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGT022_610mm3_Type_93_dead_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGT022_610mm3_Type_93_dead_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	detailMap
+		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>
+	</property>
+	<property>	g_detailAlbedoInfluence
+		<Float>	0.000000	</Float>
+	</property>
+	<property>	g_detailGlossInfluence
+		<Float>	0.000000	</Float>
+	</property>
+	<property>	g_detailNormalInfluence
+		<Float>	0.000000	</Float>
+	</property>
+	<property>	g_detailFadeDistance
+		<Float>	3.000000	</Float>
+	</property>
+	<property>	g_detailScaleU
+		<Float>	4.000000	</Float>
+	</property>
+	<property>	g_detailScaleV
+		<Float>	4.000000	</Float>
+	</property>
+</JGT022_610mm3_Type_93_dead.mfm>

@@ -1,0 +1,38 @@
+<JGA066_13mm76_Type93_single_dead.visual>
+	<boundingBox>
+		<min>	-0.014806 -0.003275 -0.041896	</min>
+		<max>	0.014192 0.110404 0.068635	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	JGA066_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	JGA066_dead	</node>
+		<geometry>
+			<vertices>	JGA066_deadShape.vertices	</vertices>
+			<primitive>	JGA066_deadShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunXDeadX	</identifier>
+					<mfm>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGA066_mm76_Type_93_single_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JGA066_13mm76_Type93_single_dead.visual>

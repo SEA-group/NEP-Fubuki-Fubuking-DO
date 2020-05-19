@@ -1,0 +1,186 @@
+<JSD019_Fubuki_1943_Stern_ports.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+		</transform>
+		<node>
+			<identifier>	Stern_ports	</identifier>
+			<transform>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_FX_Fire_4	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.2541 -3.3430 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Flood_steam_right	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.3129 0.2026 -2.9205 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTraceBack	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 -3.9250 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTrace_screw_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.1433 -0.1560 -3.5123 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTrace_screw_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.1433 -0.1560 -3.5123 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGA_24	</identifier>
+				<transform>
+					<row0>	0.0001 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.0001 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.0001 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGA_25	</identifier>
+				<transform>
+					<row0>	0.0001 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.0001 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.0001 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGA_26	</identifier>
+				<transform>
+					<row0>	0.0001 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.0001 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.0001 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGB_1	</identifier>
+				<transform>
+					<row0>	0.0001 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.0001 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.0001 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGB_2	</identifier>
+				<transform>
+					<row0>	0.0001 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.0001 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.0001 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGB_3	</identifier>
+				<transform>
+					<row0>	0.0001 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.0001 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.0001 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGB_4	</identifier>
+				<transform>
+					<row0>	0.0001 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.0001 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.0001 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGB_5	</identifier>
+				<transform>
+					<row0>	0.0001 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.0001 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.0001 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGM_2	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	0.0000 0.2480 -2.8081 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Ship_death_3	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 -2.6307 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM001_Propeller3_L	</identifier>
+				<transform>
+					<row0>	0.8360 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.8354 -0.0328 0.0000	</row1>
+					<row2>	0.0000 0.0328 0.8354 0.0000	</row2>
+					<row3>	-0.1433 -0.1560 -3.5123 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM004_Barbette_Out	</identifier>
+				<transform>
+					<row0>	1.0335 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.3545 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0335 0.0000	</row2>
+					<row3>	0.0000 0.2457 -2.8081 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM032_Propeller3_R	</identifier>
+				<transform>
+					<row0>	0.8360 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.8354 -0.0328 0.0000	</row1>
+					<row2>	0.0000 0.0328 0.8354 0.0000	</row2>
+					<row3>	0.1433 -0.1560 -3.5123 1.0000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<boundingBox>
+		<min>	-0.0667 -0.0667 -0.0667	</min>
+		<max>	0.0667 0.0667 0.0667	</max>
+	</boundingBox>
+</JSD019_Fubuki_1943_Stern_ports.visual>
