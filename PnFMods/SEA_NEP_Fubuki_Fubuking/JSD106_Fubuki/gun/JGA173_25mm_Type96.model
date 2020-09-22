@@ -1,6 +1,6 @@
 <JGA173_25mm_Type96.model>
 	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGA173_25mm_Type96_lod1	</parent>
+	<parent>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/lods/JGA173_25mm_Type96_lod1	</parent>
 	<extent>	3.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGA173_25mm_Type96	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>

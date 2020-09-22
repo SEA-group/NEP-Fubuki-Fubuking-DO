@@ -1,7 +1,7 @@
 <JGA066_13mm76_Type93_single_dead.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	1.000000	</extent>
-	<parent>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGA066_13mm76_Type93_single_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/lods/JGA066_13mm76_Type93_single_dead_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.014806 -0.003275 -0.040705	</min>

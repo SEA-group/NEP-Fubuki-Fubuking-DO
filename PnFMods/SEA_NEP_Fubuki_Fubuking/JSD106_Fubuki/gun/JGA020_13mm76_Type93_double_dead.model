@@ -1,6 +1,6 @@
 <JGA020_13mm76_Type93_double_dead.model>
 	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGA020_13mm76_Type93_double_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/lods/JGA020_13mm76_Type93_double_dead_lod1	</parent>
 	<extent>	1.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGA020_13mm76_Type93_double_dead	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>

@@ -1,6 +1,6 @@
 <JGT022_610mm3_Type_93_dead.model>
 	<extent>	3.000000	</extent>
-	<parent>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGT022_610mm3_Type_93_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/lods/JGT022_610mm3_Type_93_dead_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.155521 -0.000238 -0.284578	</min>

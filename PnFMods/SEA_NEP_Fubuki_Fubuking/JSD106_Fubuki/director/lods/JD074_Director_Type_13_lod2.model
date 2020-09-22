@@ -1,0 +1,8 @@
+<JD074_Director_Type_13_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/director/lods/JD074_Director_Type_13_lod3	</parent>
+	<extent>	7.000000	</extent>
+	<exporter>	1.5	</exporter>
+	<nodefullVisual>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/director/lods/JD074_Director_Type_13_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JD074_Director_Type_13_lod2.model>

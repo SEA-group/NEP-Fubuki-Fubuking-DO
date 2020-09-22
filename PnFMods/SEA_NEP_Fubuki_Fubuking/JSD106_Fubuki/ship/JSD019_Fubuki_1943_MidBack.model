@@ -1,6 +1,6 @@
 <JSD019_Fubuki_1943_MidBack.model>
 	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/ship/JSD019_Fubuki_1943_MidBack_lod1	</parent>
+	<parent>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/ship/lods/JSD019_Fubuki_1943_MidBack_lod1	</parent>
 	<extent>	10.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/ship/JSD019_Fubuki_1943_MidBack	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>

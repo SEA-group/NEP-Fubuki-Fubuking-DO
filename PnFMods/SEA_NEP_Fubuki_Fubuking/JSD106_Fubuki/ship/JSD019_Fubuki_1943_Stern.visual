@@ -56,12 +56,6 @@
 					<mfm>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/ship/JSD007_Fubuki_1944.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	1
-				<material>
-					<identifier>	SHIPMAT_PBS_HullXX_wire2	</identifier>
-					<mfm>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/ship/JSD007_Fubuki_1944_wire2.mfm	</mfm>
-				</material>
-			</primitiveGroup>
 		</geometry>
 	</renderSet>
 	<renderSet>

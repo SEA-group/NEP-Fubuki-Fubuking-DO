@@ -1,6 +1,6 @@
 <JGB185_Depth_Charge_Dumper.model>
 	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGB185_Depth_Charge_Dumper_lod1	</parent>
+	<parent>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/lods/JGB185_Depth_Charge_Dumper_lod1	</parent>
 	<extent>	3.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGB185_Depth_Charge_Dumper	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>

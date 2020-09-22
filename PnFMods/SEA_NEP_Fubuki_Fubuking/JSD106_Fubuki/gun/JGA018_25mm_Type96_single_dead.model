@@ -1,6 +1,6 @@
 <JGA018_25mm_Type96_single_dead.model>
 	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGA018_25mm_Type96_single_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/lods/JGA018_25mm_Type96_single_dead_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/JGA018_25mm_Type96_single_dead	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>

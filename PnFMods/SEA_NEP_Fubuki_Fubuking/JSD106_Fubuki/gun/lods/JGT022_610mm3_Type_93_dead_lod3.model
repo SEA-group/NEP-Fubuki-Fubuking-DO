@@ -1,0 +1,12 @@
+<JGT022_610mm3_Type_93_dead_lod3.model>
+	<extent>	100.000000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.147021 -0.000223 -0.251895	</min>
+		<max>	0.147020 0.136170 0.306803	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/gun/lods/JGT022_610mm3_Type_93_dead_lod3	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGT022_610mm3_Type_93_dead_lod3.model>

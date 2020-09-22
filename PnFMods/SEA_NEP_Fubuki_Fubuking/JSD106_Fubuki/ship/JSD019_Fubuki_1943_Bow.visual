@@ -74,18 +74,6 @@
 					<mfm>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/ship/JSD007_Fubuki_1944.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	1
-				<material>
-					<identifier>	SHIPMAT_PBS_HullXX_wire2	</identifier>
-					<mfm>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/ship/JSD007_Fubuki_1944_wire2.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-			<primitiveGroup>	2
-				<material>
-					<identifier>	SHIPMAT_PBS_HullXX_wire2	</identifier>
-					<mfm>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/ship/JSD007_Fubuki_1944_wire2.mfm	</mfm>
-				</material>
-			</primitiveGroup>
 		</geometry>
 	</renderSet>
 	<renderSet>
@@ -124,8 +112,8 @@
 			<primitive>	Bow_patch_MidFrontShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullXX	</identifier>
-					<mfm>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/ship/JSD007_Fubuki_1944.mfm	</mfm>
+					<identifier>	SHIPMAT_PBS_AppendX	</identifier>
+					<mfm>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/ship/JSD007_Fubuki_1944_append.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

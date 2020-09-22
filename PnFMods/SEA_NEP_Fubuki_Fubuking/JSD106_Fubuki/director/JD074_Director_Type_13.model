@@ -1,7 +1,7 @@
 <JD074_Director_Type_13.model>
 	<castsShadow>	false	</castsShadow>
 	<exporter>	1.5	</exporter>
-	<parent>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/director/JD074_Director_Type_13_lod1	</parent>
+	<parent>	PnFMods/SEA_NEP_Fubuki_Fubuking/JSD106_Fubuki/director/lods/JD074_Director_Type_13_lod1	</parent>
 	<extent>	1.000000	</extent>
 	<materialNames />
 	<visibilityBox>
